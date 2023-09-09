@@ -28,4 +28,4 @@ I am a ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
 
 ---
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lowxrider&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lowxrider&theme=python-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
