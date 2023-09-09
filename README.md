@@ -11,6 +11,7 @@
 ---
 ### :man_technologist: About Me :
 I am a ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,3 +25,6 @@ I am a ... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" **alt="Selenium" width="40" height="40"/>
 </div>
+
+---
+### :fire: My Stats :
